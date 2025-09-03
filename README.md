@@ -1,7 +1,7 @@
 # Portfolio
 
 ## Introduction
-This portfolio showcases various Excel projects that demonstrate skills in data analysis, visualization, and dashboard creation.
+This portfolio showcases various projects in Excel and other tools that demonstrate skills in data analysis, visualization, and dashboard creation.
 
 ## Instructions
 To navigate through the projects, explore the folders within the `projects` directory.
